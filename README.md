@@ -1,4 +1,4 @@
-                                                         ROVER'S SEAMELESS BANK
+                                        ROVER'S SEAMELESS BANK
 
 Features
 
