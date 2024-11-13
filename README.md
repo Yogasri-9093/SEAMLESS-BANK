@@ -6,9 +6,9 @@ Create Bank Account.
 
 Deposit & Withdraw Money
 
-Bank Account Type Support (e.g. Current Account, Savings Account)
+Loan Module
 
-Interest calculation depending on the Bank Account type
+Support Services
 
 Transaction report with a date range filter
 
